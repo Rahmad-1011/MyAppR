@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyAppR</string>
+    <string name="btn_follow">Ikuti</string>
+    <string name="lbl_postingan_count">0</string>
+    <string name="lbl_postingan">Postingan</string>
+    <string name="lbl_pengikut_count">69</string>
+    <string name="lbl_pengikut">Pengikut</string>
+    <string name="lbl_mengikuti_count">1</string>
+    <string name="lbl_mengikuti">Mengikuti</string>
+    <string name="lbl_nama">Rahmad Ardianto</string>
+    <string name="lbl_deskripsi">Programmer/ProGamer</string>
+</resources>
