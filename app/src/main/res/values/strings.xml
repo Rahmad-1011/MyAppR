@@ -9,4 +9,26 @@
     <string name="lbl_mengikuti">Mengikuti</string>
     <string name="lbl_nama">Rahmad Ardianto</string>
     <string name="lbl_deskripsi">Programmer/ProGamer</string>
+    <string name="_5_photos">5 Photos</string>
+    <string name="todo">TODO</string>
+
+    <string name="harga"> Rp.148.750.000 </string>
+    <string name="content_text">Mending Rakit PC!!!. Ini merupakan sebuah PC yang dirakit oleh seseorang yang bosan memiliki banyak uang dan akhirnya memutuskan untuk rakit PC karena ajakan Netizen-netizen di sosial media</string>
+    <string name="content_display"> Armaggeddon Gaming Monitor Pixxel+ Pro PF22HD 22” 75Hz - HDMI </string>
+    <string name="content_cpu"> *Processor intel i6-10900K LGA1200
+                                *MB MSI Z490 GODLIKE
+                                *RAM TOUGHRAM RGB 128GB
+                                *VGA Geforce RTX GAMING TRIO 3090 MSI
+                                *SSD XPG-SXB8200 PRO 1TB (2pcs)
+                                *Harddisk Toshiba 10TB
+                                *Thermaltake Pacific Core P5 DP-D5 Plus
+                                *PSU Corsair 650W 80+ Bronze
+                                *Case Paradox Black Burn
+                                *Thermaltake FAN Riing Quad 12 RGB 6pcs
+                                *PowerSupply Thermaltake Toughpower RGB PLUS1050watt</string>
+    <string name="content_mouse"> Razer Deathadder mini </string>
+    <string name="content_mousepad"> Razer FIREFLY V2 </string>
+    <string name="content_keyboard"> Razer Huntsman Elite </string>
+
+
 </resources>
